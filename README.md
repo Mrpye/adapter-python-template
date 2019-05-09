@@ -1,0 +1,1 @@
+# adapter-python-template
